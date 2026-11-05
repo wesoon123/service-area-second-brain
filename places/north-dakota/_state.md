@@ -9,9 +9,9 @@ last_checked: 2026-11-05
 
 ## Places
 
-Landing-page candidates: every North Dakota city with 10,000+ people (Census 2024 or 2025 estimates), each with at least one dated, sourced incident.
+Landing-page candidates. The table lists every North Dakota city with 10,000+ people (Census 2024 or 2025 estimates), each with at least one dated, sourced incident.
 
-| Place | Population | Incidents noted | Newest incident |
+| Place | Population | Incidents noted | First incident listed in note |
 |---|---|---|---|
 | [[fargo]] | 136,285 (2024) | 3 | June 20–21, 2025 |
 | [[bismarck]] | 77,284 (2024) | 2 | Feb 29, 2024 |
@@ -23,7 +23,29 @@ Landing-page candidates: every North Dakota city with 10,000+ people (Census 202
 | [[mandan]] | 25,061 (2025) | 2 | Feb 29, 2024 |
 | [[jamestown]] | 15,688 (2025) | 3 | June 2, 2024 |
 
-Only nine North Dakota places reach 10,000 people. Next largest, not yet checked against Census 2024/2025: Devils Lake (about 7,200, source year unknown), Wahpeton, Valley City, Watford City (about 5,900, ACS), Grafton, Casselton.
+Only nine North Dakota places reach 10,000 people. Six smaller places were added for local knowledge (2020 census populations, so a different year than the table above): [[wahpeton]], [[devils-lake]], [[valley-city]], [[watford-city]], [[grafton]] and [[casselton]]. Beulah was checked and left out: the results were thin and conflicting.
+
+## Trailer map
+
+Which trailer types each place is linked to (inference from sourced incidents and sectors, not sourced demand). Columns match the notes in `use-cases/`.
+
+| Place | Population | Kitchen | Dishwash | Reefer | Shower+WC | Shower | Restroom | Laundry | Sleeper | Camp |
+|---|---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| [[fargo]] | 136,285 (2024) | x |  |  | x | x | x | x | x |  |
+| [[bismarck]] | 77,284 (2024) | x |  |  | x | x | x | x |  |  |
+| [[grand-forks]] | 59,760 (2024) | x |  |  | x | x | x | x |  |  |
+| [[minot]] | 47,277 (2024) | x |  |  | x | x | x |  | x |  |
+| [[west-fargo]] | 41,027 (2024) | x |  |  |  | x | x | x |  |  |
+| [[williston]] | 28,822 (2024) | x |  |  | x |  | x | x | x | x |
+| [[dickinson]] | 25,870 (2025) | x |  |  |  | x | x |  | x |  |
+| [[mandan]] | 25,061 (2025) | x |  |  |  | x | x |  | x |  |
+| [[jamestown]] | 15,688 (2025) | x |  |  |  | x | x | x | x |  |
+| [[wahpeton]] | 8,007 (2020) | x |  |  |  | x | x |  |  |  |
+| [[devils-lake]] | 7,192 (2020) | x |  |  | x |  | x |  | x |  |
+| [[valley-city]] | 6,575 (2020) | x |  |  |  | x | x | x | x |  |
+| [[watford-city]] | 6,207 (2020) | x |  |  | x |  | x | x | x | x |
+| [[grafton]] | 4,170 (2020) | x |  |  |  | x | x |  |  |  |
+| [[casselton]] | 2,479 (2020) | x |  |  |  | x | x |  |  |  |
 
 ## Climate risks
 

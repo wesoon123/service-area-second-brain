@@ -13,6 +13,8 @@ last_checked:
 ## Situations that trigger demand
 
 ## Places where this fits
+- [[watford-city]] (ND): oil-field workforce housing and camp facilities (check current county rules and oil activity before pitching camps). Inference, see the place note for sources.
+- [[valley-city]] (ND): flood-fight and temporary-levee crews and evacuation support. Inference, see the place note for sources.
 - [[jamestown]] (ND): repeated storm, wind and flash-flood recovery in 2024 and 2025. Inference, see the place note for sources.
 - [[williston]] (ND): oil-field and wildfire-response workforce housing and facilities (check current city crew-camp rules before pitching camps). Inference, see the place note for sources.
 - [[west-fargo]] (ND): storm and flash-flood response in the Fargo metro. Inference, see the place note for sources.
