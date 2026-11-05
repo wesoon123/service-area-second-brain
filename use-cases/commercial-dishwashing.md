@@ -13,6 +13,7 @@ last_checked:
 ## Situations that trigger demand
 
 ## Places where this fits
+- [[miami]] (FL): high-volume hospitality, cruise and hospital food service. Inference, see the place note for sources.
 
 ## Selling points and objections
 

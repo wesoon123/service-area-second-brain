@@ -2,7 +2,7 @@
 type: state
 state: Florida
 state_abbr: FL
-last_checked: 
+last_checked: 2026-11-05
 ---
 
 # Florida

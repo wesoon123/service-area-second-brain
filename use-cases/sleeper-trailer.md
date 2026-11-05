@@ -13,6 +13,7 @@ last_checked:
 ## Situations that trigger demand
 
 ## Places where this fits
+- [[miami]] (FL): hurricane and flood response crew housing. Inference, see the place note for sources.
 
 ## Selling points and objections
 
