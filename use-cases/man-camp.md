@@ -13,6 +13,7 @@ last_checked:
 ## Situations that trigger demand
 
 ## Places where this fits
+- [[williston]] (ND): oil-field and wildfire-response workforce housing and facilities (check current city crew-camp rules before pitching camps). Inference, see the place note for sources.
 
 ## Selling points and objections
 
